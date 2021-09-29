@@ -12,4 +12,4 @@ Generador de frases tomadas de una API.
 
 ## Demo
 
-![Alt text](Demo/demo1.jpg?raw=true "Title")
+![Alt text](Demo/demo1.JPG?raw=true "Title")
