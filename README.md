@@ -21,3 +21,9 @@ Generador de frases tomadas de una API.
 -Retweet
 
 ![Alt text](Demo/demo3.JPG?raw=true "Title3")
+
+## Authors
+
+- [@JesusArgenis1996](https://github.com/JesusArgenis1996)
+
+  
