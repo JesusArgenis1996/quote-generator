@@ -13,3 +13,11 @@ Generador de frases tomadas de una API.
 ## Demo
 
 ![Alt text](Demo/demo1.JPG?raw=true "Title")
+
+-Change phrase
+
+![Alt text](Demo/demo2.JPG?raw=true "Title2")
+
+-Retweet
+
+![Alt text](Demo/demo3.JPG?raw=true "Title3")
